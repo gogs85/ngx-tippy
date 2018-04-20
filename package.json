@@ -1,0 +1,31 @@
+{
+  "name": "ngx-tippy",
+  "version": "1.0.2",
+  "description": "An angular directive for tippy.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdanielcox/ngx-tippy.git"
+  },
+  "keywords": [
+    "tippy",
+    "ngx-tippy",
+    "tooltips",
+    "ngx-tooltips"
+  ],
+  "author": "Daniel Cox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tdanielcox/ngx-tippy/issues"
+  },
+  "homepage": "https://github.com/tdanielcox/ngx-tippy#readme",
+  "peerDependencies": {
+    "@angular/core": ">=2.0.0"
+  },
+  "dependencies": {
+    "tippy.js": "^1.2.0"
+  }
+}
