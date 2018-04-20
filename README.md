@@ -1,4 +1,4 @@
-Angular2 Tippy
+Angular Tippy
 ==============
 
 A directive for the tippy.js library
@@ -8,13 +8,13 @@ A directive for the tippy.js library
 Install with NPM:
 
 ```bash
-npm install angular2-tippy
+npm install ngx-tippy
 ```
 
 Then, import the directive
 
 ```js
-import { TippyDirective } from 'angular2-tippy';
+import { TippyDirective } from 'ngx-tippy';
 ```
 
 ```js
