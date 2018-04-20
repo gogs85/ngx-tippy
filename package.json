@@ -1,6 +1,6 @@
 {
   "name": "ngx-tippy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An angular directive for tippy.js",
   "main": "index.js",
   "scripts": {

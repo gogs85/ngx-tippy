@@ -27,6 +27,10 @@ export class TippyDirective implements OnInit, OnChanges {
         }
     }
 
+    public tippyClose() {
+        this.loadTippy();
+    }
+
     private loadTippy() {
         setTimeout(() => {
             let el = this.el.nativeElement;
